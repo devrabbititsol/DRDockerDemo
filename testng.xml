@@ -3,7 +3,7 @@
 <suite name="Main Test Suite" verbose="1">
 	<test name="test">
 		<classes>
-			<class name="web.drdockerdemo.dockermodule.webtestclasses.TC1" />
+			<class name="web.drdockerdemo.dockermodule.webtestclasses.TC_Test2" />
 			<class name="com.fileupload.ReportUpload" />
 		</classes>
 		</test>
